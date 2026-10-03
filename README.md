@@ -1,5 +1,6 @@
-# TaskCLi
-# Task Tracker CLI 🚀
+# TaskCLi# Task Tracker CLI 🚀
+
+- **Project URL:** https://github.com/Ntt1110/TaskCLi
 
 The task management application, which runs directly on the command line, is built using pure Java and follows a standard layered architecture.
 
